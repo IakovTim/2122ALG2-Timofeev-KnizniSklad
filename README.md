@@ -1,1 +1,1 @@
-# 2122ALG2-Timofeev-KnizniSklad
+# Objednávkový sýstem pro knižní sklad
